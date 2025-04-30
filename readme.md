@@ -13,7 +13,11 @@ pip install streamlit opencv-python ultralytics numpy filterpy scipy scikit-lear
 5. Run app:
 streamlit run app.py
 
-examples:
-![Home Page](output1.png)
-![Running Page](output2.png)
+
+
+Image 1:
+![HomePage](output1.png)
+
+Image 2:
+![RunningPage](output2.png)
 
